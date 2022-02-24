@@ -1,0 +1,24 @@
+{
+  "name": "wallet",
+  "version": "1.0.0",
+  "description": "wallet mr-base",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-tramadol/wallet.git"
+  },
+  "author": "mr-tramadol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-tramadol/wallet/issues"
+  },
+  "homepage": "https://github.com/mr-tramadol/wallet#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "web3": "^1.7.0"
+  }
+}
