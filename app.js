@@ -8,8 +8,8 @@
 // const privateKey = web3.eth.accounts.decrypt(privateKeyEncrypted, '12345')
 // web3.eth.accounts.wallet.add('0x0b7ebfae73a5ebfff79866ac5faebb62d45e38571cdada56d54cbbc3565446e9', string)
 // console.log(privateKey)
+const Web3 = require('web3')
 
 const createWallet = require('./src/crear-wallet')
- function accion(){
-     createWallet()
- }
+
+
